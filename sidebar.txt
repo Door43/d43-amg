@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amg:home|Door43 (amg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amg|d43-amg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amg/archive/master.zip|d43-amg.zip]]
+
+**Recent Changes**
+{{changes>ns = amg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amg|Ethnologue data]]
+
